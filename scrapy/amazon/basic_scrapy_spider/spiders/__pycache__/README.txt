@@ -1,0 +1,1 @@
+drag quotes to your spiders where exists '__init__.py'
