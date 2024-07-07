@@ -13,7 +13,7 @@ Useful commands below✅:
 9. Running the scrapy project: `scrapy crawl scrape_quotes_worker`
 
 
-# Bypassing Antubot🐄
+# Bypassing Antibot🐄
 
 I used proxy aggregator https://scrapeops.io/proxy-aggregator/     
-for bypassing antibot, it is tool only suitable for scrapy, also is paid
+for bypassing antibot, it is tool only suitable for scrapy
